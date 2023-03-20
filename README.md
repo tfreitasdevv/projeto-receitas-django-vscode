@@ -1,2 +1,2 @@
-# projeto-receitas-django-vscode
- Continuação do projeto acadêmico de Python com Django
+# projeto-receitas-django
+ Projeto acadêmico de criação de site com Django Framework
