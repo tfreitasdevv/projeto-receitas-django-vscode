@@ -1,0 +1,1 @@
+Arquivo criado apenas para teste de sincronia entre os projetos com git em dois computadores.
